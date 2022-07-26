@@ -1,0 +1,27 @@
+baseURL = 'http://tintahijau.com/'
+languageCode = 'en-us'
+title = 'Tinta Hijau'
+
+theme = 'github-style-master'
+[permalinks]
+    post = "/:year/:filename"
+
+lastmod = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+  enableGitalk = true
+
+  [params.gitalk]
+    clientID = "Your client ID" 
+    clientSecret = "Your client secret" 
+    repo = "repo"
+    owner = "Your Github username"
+    admin = "Your Github username"
+    id = "location.pathname"
+    labels = "gitalk"
+    perPage = 30
+    pagerDirection = "last"
+    createIssueManually = true
+    distractionFreeMode = false
