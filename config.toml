@@ -1,6 +1,6 @@
-baseURL = 'http://tintahijau.com/'
+baseURL = 'http://brothercode.com/'
 languageCode = 'en-us'
-title = 'Tinta Hijau'
+title = 'Brother Code'
 
 theme = 'github-style-master'
 [permalinks]

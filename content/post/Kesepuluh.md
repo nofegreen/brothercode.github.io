@@ -8,6 +8,5 @@ abstraction show in the post page
 <!--more-->
 other content
 
-
-hallo haloo
+Dalam budaya masyarakat, Bro Code merujuk pada etiket yang perlu diikuti kaum pria. Istilah ini dipopulerkan oleh Barney Stinson, salah satu tokoh How I Met Your Mother. Ada berbagai macam "Bro Code" yang dapat digunakan.
 
